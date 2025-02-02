@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MFSC.sol": "MyFirstSmartContract"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MFSC.sol": {
+			"keccak256": "0xed5cfe174da330accc85a3ea116ddba48bcc1f716a836fd07f46acb5512b2d8f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://199177a9e0a45e1ae0e7964d80638408232983cd0fb6e5ebd6f7664be2f4451f",
+				"dweb:/ipfs/QmXiLcwiHGNiTQd6Su5KFSdXwQEocngscp5d1xq5ifAuug"
+			]
+		}
+	},
+	"version": 1
+}
